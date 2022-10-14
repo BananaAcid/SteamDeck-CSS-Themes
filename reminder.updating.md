@@ -2,7 +2,7 @@
 
 ## what not to forget:
 
-1. update screenshot (themeDB/images/BananaAcid/...)
+1. update screenshots (themeDB/images/BananaAcid/...). + config screenshot in theme
 2. update commit value, since tags are not used by themeDB. (themeDB/themes/BananaAcid-*.json::repo-commit)
 3. *optional* update readme.md with new screenshot ref
 4. pull `https://github.com/suchmememanyskill/CssLoader-ThemeDb`

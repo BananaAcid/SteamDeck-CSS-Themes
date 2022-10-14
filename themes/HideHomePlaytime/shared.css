@@ -17,6 +17,6 @@
         [class*="basicgamecarousel_Play"][class*="basicgamecarousel_SubMessage"] {
             /* purged class identifiers, incase of a new css compilation by valve */
 
-            display: var(--HideHomePlaytime--setting-visibility-display, invalidvalue);
-            visibility: var(--HideHomePlaytime--setting-visibility, 1);
+            display: var(--HideHomePlaytime--setting-visibility-display, flex);
+            opacity: var(--HideHomePlaytime--setting-visibility, 1);
         }
