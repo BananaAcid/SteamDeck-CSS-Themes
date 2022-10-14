@@ -16,7 +16,7 @@ A collection of CSS themes for use with the Decky plugin manager and the `CSS Lo
 
 Config:
 
-<img alt="Hide Home Playtime screenshot" src="themes/HideHomePlaytime/images/config.png?raw=true" height="200px" />
+<img alt="Hide Home Playtime screenshot" src="themes/HideHomePlaytime/images/config.jpg?raw=true" height="200px" />
 
 **Results:**
 

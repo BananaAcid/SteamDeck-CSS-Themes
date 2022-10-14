@@ -2,7 +2,7 @@
 
 Config:
 
-<img alt="Hide Home Playtime screenshot" src="images/config.png?raw=true" height="200px" />
+<img alt="Hide Home Playtime screenshot" src="images/config.jpg?raw=true" height="200px" />
 
 **Results:**
 
