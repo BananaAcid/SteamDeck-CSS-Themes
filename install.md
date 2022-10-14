@@ -4,6 +4,7 @@ This is a personal repository of themes created for the steam deck using https:/
 
 These themes are accessible through the theme DB inside the CssLoader: https://github.com/suchmememanyskill/CssLoader-ThemeDb
 
+
 ## Installation
 
 1. Install the [Steam Deck plugin loader](https://github.com/SteamDeckHomebrew/decky-loader). _The pre-release is recommended at the time of this guide being written._
@@ -11,7 +12,9 @@ These themes are accessible through the theme DB inside the CssLoader: https://g
 3. Open the [Plugin Store](https://beta.deckbrew.xyz/) using the shopping bag icon in the top-right corner.
 4. Install [suchmememanyskill/SDH-CssLoader](https://github.com/suchmememanyskill/SDH-CssLoader).
 
+
 ### Option 1: Manually Adding Themes
+
 5. Hold the power button and select Switch to Desktop.
 6. Navigate to `/home/deck/homebrew/themes`.
 7. Copy the folder(s) from this repository (ex. ColoredKeyboard) into the themes folder.
@@ -20,7 +23,9 @@ These themes are accessible through the theme DB inside the CssLoader: https://g
 10. Navigate to the Css Loader tab
 11. Open the CSS Loader plugin and enable your desired theme(s).
 
+
 ### Option 2: Using the Theme Data Base
+
 5. Again, open the Plugins section in the Quick Access menu.
 10. Open the CSS Loader plugin
 7. Select "Manage Themes"
@@ -29,7 +34,9 @@ These themes are accessible through the theme DB inside the CssLoader: https://g
 5. Again, open the Plugins section in the Quick Access menu.
 10. Open the CSS Loader plugin and enable your desired theme(s).
 
+
 ## Guide cerate by
+
 Ian Boraks
 
 [Readme Source](https://github.com/Ian-Boraks/SteamDeck-CSS-Themes/blob/main/README.md)

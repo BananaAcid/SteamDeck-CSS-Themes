@@ -17,6 +17,14 @@
         [class*="basicgamecarousel_Play"][class*="basicgamecarousel_SubMessage"] {
             /* purged class identifiers, incase of a new css compilation by valve */
 
+            /* setting: hide playtime*/
             display: var(--HideHomePlaytime--setting-visibility-display, flex);
             opacity: var(--HideHomePlaytime--setting-visibility, 1);
         }
+
+
+[class*="gamepadhomerecentgames_RecentGamesInnerContainer"]
+    [class*="gamepadhomerecentgames_RecentGamesHeader"] {
+        /* setting: hide title */
+        visibility: var(--HideHomePlaytime--setting-titleVisibility, visible);
+    }

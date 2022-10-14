@@ -3,7 +3,7 @@
     "version": "v1.0",
     "author": "BananaAcid",
     "target": "Home",
-    "description": "Hides the playtime on the home screen",
+    "description": "Hides the playtime and/or title on the home screen",
     "manifest_version": 4,
     "inject": {
         "shared.css": [
@@ -11,7 +11,7 @@
         ] 
     },
     "patches": {
-        "Visibility": {
+        "Show playtime": {
             "type": "slider",
             "default": "off",
             "values": {
@@ -29,7 +29,19 @@
                 }
             }
         },
-        "Fix Phantom Theme: 1st caption indentation": {
+        "Hide title": {
+            "type": "checkbox",
+            "default": "No",
+            "values": {
+                "Yes": {
+                    "setting.hideTitle/yes.css": [
+                        "SP"
+                    ]
+                },
+                "No": {}
+            }
+        },
+        "Fix Phantom theme: indent 1st caption": {
             "type": "checkbox",
             "default": "No",
             "values": {

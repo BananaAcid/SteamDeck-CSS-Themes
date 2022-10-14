@@ -1,8 +1,12 @@
 # SteamDeck-CSS-Themes
+
 A collection of CSS themes for use with the Decky plugin manager and the `CSS Loader`(SDH-CssLoader) theme manager plugin on SteamDeck
 
+
 ## Installation
+
 [Guide](https://github.com/BananaAcid/SteamDeck-CSS-Themes/blob/main/install.md)
+
 
 ## Themes
 
@@ -10,14 +14,14 @@ A collection of CSS themes for use with the Decky plugin manager and the `CSS Lo
 
 Config:
 
-![Hide Home Playtime screenshot](/themes/HideHomePlaytime/images/config.png?raw=true)
+<img alt="Hide Home Playtime screenshot" src="themes/HideHomePlaytime/images/config.png?raw=true" height="170px" />
 
 **Results:**
 
 Setting: Hide Home Playtime
 
-![Hide Home Playtime screenshot](/themeDB/images/BananaAcid/HideHomePlaytime.jpg?raw=true)
+<img alt="Hide Home Playtime screenshot" src="themeDB/images/BananaAcid/HideHomePlaytime.jpg?raw=true" height="255px" />
 
 Setting: Fix Phantom Theme: 1st caption indentation
 
-![Hide Home Playtime - FIX PHANTOM screenshot](/themes/HideHomePlaytime/images/fixPhantom.jpg?raw=true)
+<img alt="Hide Home Playtime - FIX PHANTOM screenshot" src="themes/HideHomePlaytime/images/fixPhantom.jpg?raw=true" height="300px" />
