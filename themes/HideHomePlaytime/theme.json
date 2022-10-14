@@ -13,18 +13,18 @@
     "patches": {
         "Visibility": {
             "type": "slider",
-            "default": "0",
+            "default": "off",
             "values": {
-                "0": {
+                "off": {
                     "setting.visibility/0.css": ["SP"]
                 },
-                "25": {
+                "25%": {
                     "setting.visibility/25.css": ["SP"]
                 },
-                "50": {
+                "50%": {
                     "setting.visibility/50.css": ["SP"]
                 },
-                "75": {
+                "75%": {
                     "setting.visibility/75.css": ["SP"]
                 }
             }
