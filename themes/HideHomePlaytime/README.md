@@ -8,7 +8,7 @@ Config:
 
 Setting: Hide playtime + Hide title
 
-<img alt="Hide Home Playtime screenshot" src="../themeDB/images/BananaAcid/HideHomePlaytime.jpg?raw=true" height="255px" />
+<img alt="Hide Home Playtime screenshot" src="./../../themeDB/images/BananaAcid/HideHomePlaytime.jpg?raw=true" height="255px" />
 
 Setting: Fix Phantom Theme: 1st caption indentation
 
