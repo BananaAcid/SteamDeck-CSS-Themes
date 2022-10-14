@@ -10,15 +10,17 @@ A collection of CSS themes for use with the Decky plugin manager and the `CSS Lo
 
 ## Themes
 
+---
+
 ### [Hide Home Playtime](https://github.com/BananaAcid/SteamDeck-CSS-Themes/blob/main/themes/HideHomePlaytime/)
 
 Config:
 
-<img alt="Hide Home Playtime screenshot" src="themes/HideHomePlaytime/images/config.png?raw=true" height="170px" />
+<img alt="Hide Home Playtime screenshot" src="themes/HideHomePlaytime/images/config.png?raw=true" height="200px" />
 
 **Results:**
 
-Setting: Hide Home Playtime
+Setting: Hide playtime + Hide title
 
 <img alt="Hide Home Playtime screenshot" src="themeDB/images/BananaAcid/HideHomePlaytime.jpg?raw=true" height="255px" />
 
