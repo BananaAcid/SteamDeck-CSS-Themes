@@ -8,14 +8,14 @@
 .gamepadhomerecentgames_RecentGamesInnerContainer_282X0
     .appportrait_PortraitMessage_3gwMk.appportrait_SubMessage_3DR9f 
         .basicgamecarousel_Play_12eKc.basicgamecarousel_SubMessage_1BtXg {
-            / * time realating content * /
+            / * time related content * /
         }
 */
 
 [class*="gamepadhomerecentgames_RecentGamesInnerContainer"]
     [class*="appportrait_PortraitMessage"][class*="appportrait_SubMessage"]
         [class*="basicgamecarousel_Play"][class*="basicgamecarousel_SubMessage"] {
-            /* purged class identifiers, incase of a new css compilation by valve */
+            /* purged unique class identifiers, incase of a new css compilation by valve */
 
             /* setting: hide playtime*/
             display: var(--HideHomePlaytime--setting-visibility-display, flex);
