@@ -1,0 +1,43 @@
+{
+    "name": "Hide Home Playtime",
+    "version": "v1.0",
+    "author": "BananaAcid",
+    "target": "Home",
+    "description": "Hides the playtime on the home screen",
+    "manifest_version": 4,
+    "inject": {
+        "shared.css": [
+            "SP"
+        ] 
+    },
+    "patches": {
+        "Visibility": {
+            "type": "slider",
+            "default": "0",
+            "values": {
+                "0": {
+                    "setting.visibility/0.css": ["SP"]
+                },
+                "25": {
+                    "setting.visibility/25.css": ["SP"]
+                },
+                "50": {
+                    "setting.visibility/50.css": ["SP"]
+                },
+                "75": {
+                    "setting.visibility/75.css": ["SP"]
+                }
+            }
+        },
+        "Fix Phantom Theme: 1st caption indentation": {
+            "type": "checkbox",
+            "default": "No",
+            "values": {
+                "Yes": {
+                    "setting.fixPhantom/yes.css": ["SP"]
+                },
+                "No": {}
+            }
+        }
+    }
+}

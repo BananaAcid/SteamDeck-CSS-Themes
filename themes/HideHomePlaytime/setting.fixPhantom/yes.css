@@ -1,0 +1,4 @@
+[class*"basicgamecarousel_BasicGameCarouselItemMediaContainer"][class*"basicgamecarousel_Featured"].Panel.Focusable
+    [class*="appportrait_PortraitMessage"] {
+        padding-left: 42px;
+    }

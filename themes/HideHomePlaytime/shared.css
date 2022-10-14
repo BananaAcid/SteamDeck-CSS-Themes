@@ -1,0 +1,22 @@
+/* structure:
+
+.gamepadhomerecentgames_RecentGamesInnerContainer_282X0
+    .appportrait_PortraitMessage_3gwMk.appportrait_SubMessage_3DR9f {
+        / * complete sub message item * /
+    }
+
+.gamepadhomerecentgames_RecentGamesInnerContainer_282X0
+    .appportrait_PortraitMessage_3gwMk.appportrait_SubMessage_3DR9f 
+        .basicgamecarousel_Play_12eKc.basicgamecarousel_SubMessage_1BtXg {
+            / * time realating content * /
+        }
+*/
+
+[class*="gamepadhomerecentgames_RecentGamesInnerContainer"]
+    [class*="appportrait_PortraitMessage"][class*="appportrait_SubMessage"]
+        [class*="basicgamecarousel_Play"][class*="basicgamecarousel_SubMessage"] {
+            /* purged class identifiers, incase of a new css compilation by valve */
+
+            display: var(--HideHomePlaytime--setting-visibility-display, invalidvalue);
+            visibility: var(--HideHomePlaytime--setting-visibility, 1);
+        }
