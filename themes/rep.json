@@ -1,7 +1,8 @@
 [
     {
        "id":"bananaacid.hidehomeplaytime",
-       "download_url":"https://github.com/BananaAcid/SteamDeck-CSS-Themes/archive/24fd552787d3ac2a568897a28ceeb627257d9b19.zip",
+    "download_url_complete-repo": "https://github.com/BananaAcid/SteamDeck-CSS-Themes/archive/24fd552787d3ac2a568897a28ceeb627257d9b19.zip",
+    "download_url": "https://raw.githubusercontent.com/BananaAcid/SteamDeck-CSS-Themes/main/themes/HideHomePlaytime.zip",
        "preview_image":"https://raw.githubusercontent.com/BananaAcid/SteamDeck-CSS-Themes/main/themeDB/images/BananaAcid/HideHomePlaytime.jpg",
        "name":"Hide Home Playtime",
        "version":"v1.0",
