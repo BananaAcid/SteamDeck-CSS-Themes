@@ -1,0 +1,15 @@
+[
+    {
+       "id":"bananaacid.hidehomeplaytime",
+       "download_url":"https://github.com/BananaAcid/SteamDeck-CSS-Themes/archive/24fd552787d3ac2a568897a28ceeb627257d9b19.zip",
+       "preview_image":"https://raw.githubusercontent.com/BananaAcid/SteamDeck-CSS-Themes/main/themeDB/images/BananaAcid/HideHomePlaytime.jpg",
+       "name":"Hide Home Playtime",
+       "version":"v1.0",
+       "author":"BananaAcid",
+       "last_changed":"2022-10-14T19:19:14",
+       "target":"Home",
+       "source":"https://github.com/BananaAcid/SteamDeck-CSS-Themes/tree/main/themes/HideHomePlaytime",
+       "manifest_version":4,
+       "description":"Hides the playtime and/or title on the home screen"
+    }
+]
